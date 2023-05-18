@@ -1,0 +1,22 @@
+.frame {
+    display: flex;
+    
+    width: 100%;
+    background-color: bisque;
+    justify-content: right;
+    align-items: center;
+    margin-bottom: 2px;
+    padding: 10px;
+   
+
+}
+.aha {
+    margin-left: 70px;
+
+}
+.frame input {
+  width: 400px;
+  border-radius: 9px;
+  margin-right: 20px;
+  margin-left: 10px;
+}

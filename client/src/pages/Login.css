@@ -1,0 +1,31 @@
+
+.authframe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.auth{
+    display: flex;
+    
+    flex-direction: column;
+    gap: 10px;
+    height: 400px;
+    background-color: rgb(186, 186, 202);
+    color: aliceblue;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+
+
+}
+
+.auth button {
+    padding: 7px 20px;
+    border: none;
+    background-color: rgb(97, 101, 101);
+    cursor: pointer;
+    color: white;
+    margin-top: 15px;
+  }

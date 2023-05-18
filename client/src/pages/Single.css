@@ -1,0 +1,14 @@
+.centar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.centar button {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.centar img {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}

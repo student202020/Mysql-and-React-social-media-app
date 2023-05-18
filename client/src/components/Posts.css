@@ -1,0 +1,29 @@
+
+
+  
+  .row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  
+  .column {
+    display: flex;
+    justify-content: space-around;
+    flex: 3 1;
+  }
+.split1 {
+  margin: auto;
+ 
+}
+.split2 {
+
+  margin-left: auto;
+    }
+    .split2 img {
+      max-width: 50px;
+      max-height: 50px;
+      object-fit: cover;
+      border-radius: 50%; 
+    }

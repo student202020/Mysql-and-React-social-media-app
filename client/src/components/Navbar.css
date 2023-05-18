@@ -1,0 +1,15 @@
+.frame {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vpw;
+    height: 15px;
+    background-color: rgb(242, 240, 239);
+   
+
+}
+h6 {
+    margin-left: 10px;
+}
+button {
+    margin-left: auto;}

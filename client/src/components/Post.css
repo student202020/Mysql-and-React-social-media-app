@@ -1,0 +1,32 @@
+.centar {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    margin: none;
+}
+.centar img {
+
+    max-width: 400px;
+    max-height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: none;
+}
+.centar input {
+    border: none;
+    border-bottom: 1px solid grey;
+    margin-right: 10px;
+    
+}
+.centar button {
+    border: none;
+    background-color: white;
+    color: green;
+    cursor: pointer;
+}
+.to {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
